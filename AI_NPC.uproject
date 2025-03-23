@@ -107,6 +107,10 @@
 		{
 			"Name": "InterchangeAssets",
 			"Enabled": false
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
