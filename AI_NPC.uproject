@@ -84,10 +84,6 @@
 			]
 		},
 		{
-			"Name": "Fab",
-			"Enabled": false
-		},
-		{
 			"Name": "GLTFExporter",
 			"Enabled": false
 		},
@@ -110,6 +106,10 @@
 		},
 		{
 			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "RLPlugin",
 			"Enabled": true
 		}
 	]
