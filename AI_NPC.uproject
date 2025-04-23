@@ -114,7 +114,7 @@
 		},
 		{
 			"Name": "MetaHuman",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux"
@@ -142,6 +142,10 @@
 		},
 		{
 			"Name": "Sample_CityKit",
+			"Enabled": false
+		},
+		{
+			"Name": "Bridge",
 			"Enabled": false
 		}
 	]
