@@ -131,18 +131,6 @@
 		{
 			"Name": "MassGameplay",
 			"Enabled": true
-		},
-		{
-			"Name": "CityBLD",
-			"Enabled": false
-		},
-		{
-			"Name": "BaseKit_Medieval",
-			"Enabled": false
-		},
-		{
-			"Name": "Sample_CityKit",
-			"Enabled": false
 		}
 	]
 }
