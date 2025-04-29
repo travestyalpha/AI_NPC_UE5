@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+/Content/CitySampleVehicles
+/Content/Downtown_West
+/Content/ModularBuildingSet
